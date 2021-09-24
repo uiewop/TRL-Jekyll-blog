@@ -11,8 +11,6 @@ intro_paragraph: >-
   layout, sample pages and posts, and a continuous deployment workflow.
 
 
-
-
   **Join It**
 
 
